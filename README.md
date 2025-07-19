@@ -1,3 +1,6 @@
+<img width="1260" height="1792" alt="download-poster" src="https://github.com/user-attachments/assets/fd0ba24c-6ce0-4ffc-9206-44060613ef09" />
+<img width="675" height="960" alt="Join Bitget now and help me unlock a free welcome pack, including BTC futures position vouchers, by using this link!" src="https://github.com/user-attachments/assets/e2db4576-1db3-4d00-abf8-b49a5fd9da8b" />
+<img width="675" height="960" alt="Participate to get incentives!" src="https://github.com/user-attachments/assets/153fda66-2fda-467e-bd1b-7c4027fa9026" />
 # AndroidX Media
 
 AndroidX Media is a collection of libraries for implementing media use cases on
@@ -164,7 +167,8 @@ Or in Gradle Groovy DSL `settings.gradle`:
 ```groovy
 gradle.ext.androidxMediaEnableMidiModule = true
 ```
-
+...https://www.bitget.com/events/activities/new/f28eb87db4ab5b46b7b1b2abc9a9b3d3?clacCode=&color=dark..203.113.111.18
+203.113.111.11...https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1.
 ## Developing AndroidX Media
 
 #### Project branches
@@ -178,3 +182,62 @@ The `release` branch holds the most recent stable release.
 
 To develop AndroidX Media using Android Studio, simply open the project in the
 root directory of this repository.
+# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method POST \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /orgs/ORG/personal-access-token-requests \
+   -F "pat_request_ids[]=42" -F "pat_request_ids[]=73" -f 'action=deny' -f 'reason=Access is too broad.'.// Octokit.js
+// https://github.com/octokit/core.js#readme
+const octokit = new Octokit({
+  auth: 'YOUR-TOKEN'
+})
+
+await octokit.request('POST /orgs/{org}/personal-access-token-requests', {
+  org: 'ORG',
+  pat_request_ids: [
+    42,
+    73
+  ],
+  action: 'deny',
+  reason: 'Access is too broad.',
+  headers: {
+    'X-GitHub-Api-Version': '2022-11-28'
+  }
+})..# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method POST \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /orgs/ORG/personal-access-token-requests \
+   -F "pat_request_ids[]=42" -F "pat_request_ids[]=73" -f 'action=deny' -f 'reason=Access is too broad.'..https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%E0%B9%80%E0%B8%9E%E0%B8%B4%E0%B9%88%E0%B8%A1..# GitHub CLI api
+# https://cli.github.com/manual/gh_api
+
+gh api \
+  --method POST \
+  -H "Accept: application/vnd.github+json" \
+  -H "X-GitHub-Api-Version: 2022-11-28" \
+  /orgs/ORG/personal-access-token-requests \
+   -F "pat_request_ids[]=42" -F "pat_request_ids[]=73" -f 'action=deny' -f 'reason=Access is too broad.'https://cli.github.com/manual/gh_api2022-11-28// Octokit.js
+// https://github.com/octokit/core.js#readme
+const octokit = new Octokit({
+  auth: 'YOUR-TOKEN'
+})
+
+await octokit.request('POST /orgs/{org}/personal-access-token-requests', {
+  org: 'ORG',
+  pat_request_ids: [
+    42,
+    73
+  ],
+  action: 'deny',
+  reason: 'Access is too broad.',
+  headers: {
+    'X-GitHub-Api-Version': '2022-11-28'
+  }
+})Octokit.jshttps://github.com/octokit/core.js#readme73
